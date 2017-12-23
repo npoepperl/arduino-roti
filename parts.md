@@ -1,4 +1,4 @@
-# Parts already ordered
+# bestellte Teile
 
 * 2 x [7 Segment Anzeigen](https://www.aliexpress.com/item/10PCS-0-56-inch-1-digit-Blue-Led-display-7-segment-Common-cathode/32813559182.html?spm=a2g0s.9042311.0.0.j8OBnC)
 * 5 x [Arcade Buttons in Rot, Gelb, Weiß, Blau, Grün](https://www.aliexpress.com/item/33mm-Push-Button-Arcade-Button-Led-Micro-Switch-Momentary-Illuminated-12v-Power-Button-Switch/32717276133.html?spm=a2g0s.9042311.0.0.j8OBnC)
@@ -10,7 +10,7 @@
 * 6 x [MAX 7219 mit 8x8 LED Matrix](https://de.aliexpress.com/item/Free-Shipping-20set-MAX7219-dot-matrix-module-Display-module-DIY-kit-MCU-control-module-Special-promotions/1753530781.html?spm=a2g0s.9042311.0.0.j8OBnC)
 * 1 x [Node MCU](https://de.aliexpress.com/item/NodeMcu-Lua-WIFI-development-board-based-on-the-ESP8266-Internet-of-things/32338121965.html?spm=a2g0s.9042311.0.0.j8OBnC)
 
-# Parts missing
+# fehlende Teile
 
 * 6 x 5er Stiftleiste gewinkelt zweireihig
 * 1 x Ring Flachkabel (mindestens 10 Adern)
